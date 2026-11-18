@@ -1,0 +1,54 @@
+POLÍTICA DE PARCEIROS – PLATAFORMA SABOR EXPRESS (DOCUMENTO FICTÍCIO PARA DEMONSTRAÇÃO)
+Versão 1.0 – Aplica-se a todos os restaurantes parceiros cadastrados.
+
+1. REPASSE FINANCEIRO
+
+Cláusula 1.1 – Os repasses são realizados semanalmente, toda quarta-feira, e referem-se aos pedidos concluídos de segunda a domingo da semana anterior.
+
+Cláusula 1.2 – A comissão da plataforma é de 12% no plano Básico (entrega feita pelo próprio restaurante) e de 23% no plano Entrega Parceira (entrega feita por entregadores da plataforma). A comissão incide apenas sobre o valor dos itens, sem considerar a taxa de entrega.
+
+Cláusula 1.3 – O restaurante pode solicitar antecipação do repasse, com taxa de 2,5% sobre o valor antecipado. Pedidos feitos até as 14h são creditados em 1 dia útil.
+
+Cláusula 1.4 – Valores em disputa podem ser retidos do repasse até a conclusão da análise, por no máximo 15 dias corridos.
+
+2. CANCELAMENTOS
+
+Cláusula 2.1 – Se o cliente cancelar o pedido antes de ele ser marcado como "em preparo", não há custo para o restaurante e não há repasse.
+
+Cláusula 2.2 – Se o cliente cancelar o pedido depois de iniciado o preparo, sem que tenha havido atraso, o restaurante recebe 100% do valor dos itens, descontada a comissão.
+
+Cláusula 2.3 – Se o cliente cancelar por atraso na entrega superior a 30 minutos do prazo estimado, e o pedido tiver sido marcado como pronto dentro do tempo de preparo informado pelo restaurante, o restaurante recebe 100% do valor dos itens, descontada a comissão. O custo do cancelamento é absorvido pela plataforma.
+
+Cláusula 2.4 – Se o restaurante cancelar um pedido após o aceite, será cobrada multa de R$ 15,00 por pedido, descontada do repasse seguinte. Mais de 3 cancelamentos desse tipo em 30 dias geram advertência formal.
+
+3. ATRASO NA ENTREGA
+
+Cláusula 3.1 – O prazo estimado de entrega é a soma do tempo de preparo informado pelo restaurante com o tempo de deslocamento. Considera-se atraso quando a entrega excede o prazo estimado em mais de 15 minutos.
+
+Cláusula 3.2 – No plano Entrega Parceira, se o atraso for causado pelo entregador, a responsabilidade é da plataforma. O restaurante não sofre penalidade e o cliente recebe um cupom de desconto custeado pela plataforma.
+
+Cláusula 3.3 – Se o atraso for causado pelo preparo, isto é, o pedido foi marcado como pronto mais de 10 minutos depois do tempo de preparo informado, a responsabilidade é do restaurante. Nesse caso, se o cliente cancelar, não há repasse.
+
+Cláusula 3.4 – No plano Básico, em que a entrega é feita pelo próprio restaurante, o restaurante é responsável por qualquer atraso e não há compensação por parte da plataforma.
+
+4. REEMBOLSO E CONTESTAÇÃO
+
+Cláusula 4.1 – Em caso de item faltante ou item errado, o restaurante reembolsa o valor do item, desde que o cliente envie foto em até 24 horas após a entrega. O valor é deduzido do repasse seguinte.
+
+Cláusula 4.2 – Em caso de problema de qualidade ou suspeita de contaminação do alimento, o cliente tem direito a reembolso integral do pedido, deduzido do restaurante após análise. Três ocorrências em 30 dias levam à revisão do cadastro do restaurante.
+
+Cláusula 4.3 – No plano Entrega Parceira, se o pedido for danificado durante o transporte, a responsabilidade é da plataforma e o restaurante recebe o valor integral dos itens, descontada a comissão.
+
+Cláusula 4.4 – O restaurante pode contestar qualquer reembolso ou desconto em até 7 dias corridos, enviando evidências (fotos, registros do pedido). A plataforma responde em até 5 dias úteis.
+
+5. ITENS INDISPONÍVEIS
+
+Cláusula 5.1 – O restaurante deve pausar um item indisponível em até 5 minutos após perceber a falta. Pedidos cancelados pelo restaurante por indisponibilidade de item seguem a Cláusula 2.4, exceto se o cliente aprovar uma substituição.
+
+6. SUSPENSÃO E ESCALONAMENTO
+
+Cláusula 6.1 – Taxa de cancelamento pelo restaurante acima de 8% em 30 dias gera advertência. Acima de 15% em 30 dias gera suspensão temporária de 7 dias.
+
+Cláusula 6.2 – Casos de segurança alimentar (contaminação, corpo estranho, intoxicação) são escalados imediatamente para a equipe de Qualidade, com urgência alta e resposta em até 4 horas.
+
+Cláusula 6.3 – Dúvidas que não estejam cobertas por esta política devem ser encaminhadas ao atendimento humano. Nenhuma regra pode ser presumida além do que está escrito neste documento.
