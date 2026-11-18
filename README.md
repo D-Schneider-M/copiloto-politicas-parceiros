@@ -2,7 +2,7 @@
 
 Sistema de **RAG (Retrieval-Augmented Generation)** com **Saídas Estruturadas (JSON)** construído com a API do **Google Gemini** e **Streamlit** para automatizar a triagem de chamados de restaurantes parceiros em operações de delivery.
 
-**App online:** _(cole aqui o link do Streamlit depois de publicar)_
+**App online:** [Acessar o Copiloto de Políticas](https://copiloto-politicas-parceiros-keeeyqdvvkpbncncfwaa9t.streamlit.app)
 
 > A base padrão (`politica_parceiros.txt`) contém regras **fictícias** de repasse, cancelamento, atrasos e reembolso criadas para demonstração. Também é possível enviar qualquer outro regulamento em `.txt` ou `.pdf` diretamente pela interface.
 
